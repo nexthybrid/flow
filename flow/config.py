@@ -23,4 +23,4 @@ AIMSUN_NEXT_PATH = "/home/tong/Aimsun_Next_8_4_0"
 
 # path to the aimsun_flow environment's main directory (required for Aimsun
 # simulations)
-AIMSUN_SITEPACKAGES = "/path/to/envs/aimsun_flow"
+AIMSUN_SITEPACKAGES = "/home/tong/anaconda3/envs/aimsun_flow"
